@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+}
+
+.container {
+    border-width: 1px;
+    padding: 50px;
+    padding-top: 80px;
+    border-radius: 10px;
+    border-style: solid;
+    margin-right: 25vw;
+    margin-left: 25vw;
+    background-color: rgb(173 216 230 / 30%);
+    height: 25vh;
+}
+
+.cardNumber {
+    margin-right: 10px;
+}
+
+.submit {
+    background-color: rgb(43, 43, 219);
+    color: white;
+    border-radius: 10px;
+    height: 4vh;
+    width: 8vw;
+}
+
+.header {
+    padding-bottom: 4vh;
+}
+
+.balanceDetail {
+    padding-bottom: 10vh;
+}
